@@ -79,7 +79,7 @@ class Mkulima{
 
     console.log(solio.updateProduct(8807,"tea",520))
 
-    console.log(solio.getProduct(8807))
+    console.log(solio.getProduct(9994))
 
 solio.printProducts()
 
